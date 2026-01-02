@@ -2,7 +2,7 @@
 
 # Our projects
 - https://emailcountdowns.com (Animated countdown gifs for email marketing)
-- https://welcomebook.com (Generate a free welcome book for your Air BnB
+- https://freewelcomebook.com (Generate a free welcome book for your Air BnB
 
 Our Portfolio https://nexasoftltd.com
 <!--
